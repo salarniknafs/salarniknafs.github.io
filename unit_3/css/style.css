@@ -1,0 +1,32 @@
+body {
+    background-image: url("../image/salar.jpg");
+    background-size: cover;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    text-transform: uppercase;
+}
+
+.slogan {
+	font-weight: bold;
+    font-style: italic;
+	color: grey;
+
+}
+
+.address {
+	font-size: 11px;
+	color: grey;
+}
+
+p {
+    color: grey;
+}
+
+ul {
+	color: grey;
+}
+
